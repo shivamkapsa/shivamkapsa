@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @shivamkapsa
-- 👀 I’m interested in ...Coding 
-- 🌱 I’m currently learning ...Node.js and MongoDB 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...shivammishra567612@gmail.com
+Shivam Mishra
+Software Engineer with 4+ years of experience building scalable front-end applications.
+Currently exploring Generative AI and building AI-powered products.
 
-<!---
-shivamkapsa/shivamkapsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+At Work: React.js · Node.js · TypeScript · Redux · AWS · REST APIs
+Currently Building: AI Resume + Interview Assistant — React, Node.js & Llama (local LLM)
+Learning: Gen AI · Python · Local LLMs (Ollama, Gemma)
+
+Recent Projects
+
+🤖 Resume-assistant — AI-powered resume analyzer with interview questions, weak area detection & hiring score
+🏛️ Assam Rifles Portal — Government web portal built with React.js, deployed on AWS
+🔗 Sampark Setu — Full-stack grievance & grant management platform (React, React Native, Node.js, MySQL)
+📍 VTS — Real-time GPS vehicle tracking with Angular & Google Maps API
+🗳️ Engage to Elect — Civic engagement platform built on MERN stack
+
+
+📫 shivammishra567612@gmail.com · GitHub · Noida, India
