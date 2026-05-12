@@ -15,4 +15,5 @@ Recent Projects
 🗳️ Engage to Elect — Civic engagement platform built on MERN stack
 
 
-📫 shivammishra567612@gmail.com · GitHub · Noida, India
+📫 shivammishra567612@gmail.com · GitHub · Noida, India 
+LinkedIn - https://www.linkedin.com/in/shivam-m-883b5026a/
